@@ -1,0 +1,5 @@
+# Env
+.venv/
+
+# Bad Apple frames
+ba_frames/
